@@ -1,0 +1,1 @@
+auto/configure --with-debug --with-cc-opt='-O0 -g'
